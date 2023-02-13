@@ -1,1 +1,3 @@
 This is a file about George Brown.
+
+George Brown is a college in Toronto. It hosts the Computer Systems Technology program at the Casa Loma campus.
