@@ -1,1 +1,1 @@
-Hello, this is some information about George Brown.
+This is a file about George Brown.
