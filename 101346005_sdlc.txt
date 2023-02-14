@@ -8,3 +8,6 @@ cloud skills
 testing skills 
 security skills 
 proactive monitoring skills 
+The purpose of Devops is that with a devops approach  many teams are combined into 1 single team
+ testing could be a group based or testing may occur automatically and frequently 
+and many group could be involved in a long maintenance 
