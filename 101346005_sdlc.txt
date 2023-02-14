@@ -1,1 +1,3 @@
 The importance of learning devops is troublshooting problems in software and also reducing time for cycles of development. and it ensures a faster rate of innovation 
+The three most common languages of devops is ruby, python and java script 
+you have to learn 1 of these languages to work with devops  tools 
