@@ -1,3 +1,5 @@
 The Devops course is to manage and track difference versions of 
 source code and automate test and mangage cluster and to preform 
 and monitor  many tools and software
+Devops is a really intresting course to take you can work with different
+software like travisCi , github , jenkins and java. I really enjoy this class 
