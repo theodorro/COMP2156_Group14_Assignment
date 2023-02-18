@@ -1,3 +1,5 @@
 This file will contain some information about COMP 2156.
 
-This is the semester 4 DevOps course in the T-147 program at George Brown College.
+This is the semester 4 DevOps course in the T-147 program at George Brown College. So far we have learned about
+navigating and pushing files to GitHub using GitBash. We have also learned the concepts behind DevOps and
+the deployment cycle.
