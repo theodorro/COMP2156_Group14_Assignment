@@ -1,0 +1,16 @@
+DevOps is all about working with developers to deploy their software. Being a DevOps engineer requires a good 
+understanding of I.T. tools and scripting languages. Not only that, it also means being an agreeable person who 
+can collaborate with others to reach a common goal.
+
+All this is to help automate the process of releasing well-documented bugless programs.
+
+Some skills required by DevOps engineers:
+Bash scripting
+Powershell
+Github & other version control tools
+Docker
+CIs like Jenkins or Travis
+Python & other programming languages
+Cloud computing
+and the list goes on...
+
