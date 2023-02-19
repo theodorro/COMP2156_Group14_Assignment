@@ -1,3 +1,5 @@
 This file will contain information about COMP 2156 DevOps course.
 
-DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+The COMP 2156 DevOps course teaches us a variety of useful topics including learning how to navigate softwares used in the Dev ops cycle such as Jenkins, github, bash, visual studios etc.
+
+The knowledge gained in this course can be applied to problem solving and team communication that will be usefull in all facets of life and not only in the DevOps development cycle.
