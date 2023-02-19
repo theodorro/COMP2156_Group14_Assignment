@@ -1,3 +1,6 @@
 This file will contain details about important of learning DevOps engineer in software development cycle. 
 
--
+3 benefits that show the importance of learning the DevOps software development cycle
+-Shorten Production Cycles
+-Increase Deployment Success Rates
+-Improved Collaboration and Communication
