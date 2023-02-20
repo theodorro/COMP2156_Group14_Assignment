@@ -1,0 +1,13 @@
+The importance of learning devops is troublshooting problems in software and also reducing time for cycles of development. and it ensures a faster rate of innovation 
+The three most common languages of devops is ruby, python and java script 
+you have to learn 1 of these languages to work with devops  tools 
+For devops you need Linux fundemental and scripting skills 
+knowledge of relvant tools and technologies 
+coding skills 
+cloud skills 
+testing skills 
+security skills 
+proactive monitoring skills 
+The purpose of Devops is that with a devops approach  many teams are combined into 1 single team
+ testing could be a group based or testing may occur automatically and frequently 
+and many group could be involved in a long maintenance 

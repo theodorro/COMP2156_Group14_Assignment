@@ -1,0 +1,8 @@
+This file will contain details about important of learning DevOps engineer in software development cycle. 
+
+DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+
+3 benefits that show the importance of learning the DevOps software development cycle
+-Shorten Production Cycles
+-Increase Deployment Success Rates
+-Improved Collaboration and Communication
